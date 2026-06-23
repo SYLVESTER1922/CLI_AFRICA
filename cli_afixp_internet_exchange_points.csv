@@ -1,0 +1,61 @@
+Country,City,IXP_Name,Year_Launched
+Angola,Luanda,Angola-IXP,2006
+Angola,Luanda,Angonix,2015
+Benin,Cotonou,Benin IX,2013
+Botswana,Gaborone,Botswana Internet Exchange,2005
+Burkina Faso,Ouagadougou,Burkina Faso IXP,2015
+Burundi,Bujumbura,Burundi National IXP,2017
+Cameroon,Douala,CAMIX Douala,2016
+Cameroon,Yaounde,CAMIX Yaounde,2016
+Cote d Ivoire,Abidjan,CIVIX,2013
+Democratic Republic of Congo,Goma,GOMIX,2021
+Democratic Republic of Congo,Kinshasa,KINIX,2012
+Democratic Republic of Congo,Lubumbashi,LUBIX,2019
+Djibouti,Djibouti,AMS-IX Djibouti,2016
+Egypt,Cairo,Cairo IX,2002
+Egypt,Cairo,Egypt-IX,2022
+Gabon,Libreville,GAB-IX,2014
+Gambia,Serekunda,SIXP,2014
+Ghana,Accra,Accra-IX,2023
+Ghana,Accra,GIX,2005
+Guinea,Conakry,IXP-GUINEE,2020
+Kenya,Mombasa,KIXP Mombasa,2014
+Kenya,Mombasa,LINX Mombasa,2025
+Kenya,Nairobi,KIXP Nairobi,2002
+Kenya,Nairobi,LINX Nairobi,2023
+Lesotho,Maseru,LIXP,2011
+Liberia,Monrovia,LIXP,2015
+Madagascar,Antananarivo,MGIX,2016
+Malawi,Blantyre,MIX,2008
+Malawi,Lilongwe,LIONEX,2024
+Mali,Bamako,MLIX,2018
+Mauritius,Ebene,MIXP,2008
+Mozambique,Maputo,MOZIX,2002
+Namibia,Windhoek,IXWHK,2014
+Nigeria,Abuja,Abuja IX,2011
+Nigeria,Lagos,AF-CIX,2023
+Nigeria,Lagos,AMS-IX Lagos,2023
+Nigeria,Lagos,IXPN Lagos,2007
+Nigeria,Port Harcourt,Port Harcourt IX,2012
+Republic of Congo,Brazzaville,CGIX,2013
+Rwanda,Kigali,RINEX,2004
+Senegal,Dakar,HubSIX,2026
+Senegal,Dakar,SENIX,2017
+Somalia,Mogadishu,SoIXP,2018
+South Africa,Cape Town,CINX,1997
+South Africa,Cape Town,NAPAfrica CT1,2012
+South Africa,Durban,DINX,2012
+South Africa,Durban,NAPAfrica DB1,2011
+South Africa,Johannesburg,JINX,1996
+South Africa,Johannesburg,NAPAfrica JB1,2012
+Sudan,Khartoum,SIXP Sudan,2011
+Tanzania,Arusha,AIXP,2006
+Tanzania,Dar es Salaam,TIX,2004
+Tanzania,Mwanza,MIXP,2016
+Tanzania,Zanzibar,ZIXP,2018
+Togo,Lome,TGIX,2017
+Tunisia,Tunis,TunIXP,2011
+Uganda,Kampala,UIXP,2001
+Zambia,Lusaka,Lusaka IXP,2022
+Zambia,Lusaka,ZIXP,2006
+Zimbabwe,Harare,HIXP,2017
